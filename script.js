@@ -60,8 +60,8 @@ function sendMail() {
     message: message,
   };
 
-  const serviceID = "service_tra2zv9";
-  const templateID = "template_l9s5r8p";
+  const serviceID = "service_pqpxoqj";
+  const templateID = "template_nbmrcjw";
 
   emailjs
     .send(serviceID, templateID, params)
@@ -109,8 +109,8 @@ function conMail() {
     message: message,
   };
 
-  const serviceID = "service_tra2zv9";
-  const templateID = "template_feacre7";
+  const serviceID = "service_pqpxoqj";
+  const templateID = "template_0l154jb";
 
   emailjs
     .send(serviceID, templateID, params)
